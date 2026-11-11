@@ -134,3 +134,4 @@ If you want, I can commit a minimal `.env.example` (without secrets) that docume
 "# miniproject" 
 "# veracity-ai" 
 "# veracity-ai" 
+"# veracity-ai" 
